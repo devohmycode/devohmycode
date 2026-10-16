@@ -212,12 +212,12 @@ def render_card(stats, portrait, theme):
         )
     svg.append(heading(45, f"{USER}@github "))
     for y, label, value in [
-        (87, "OS", "Windows"),
+        (87, "OS", "Windows, Linux"),
         (108, "Uptime", age),
         (129, "GitHub", f"Since {stats['since']}"),
         (150, "Kernel", JOB_TITLE),
         (171, "IDE", IDE),
-        (213, "Languages.Programming", "C#, TypeScript, Kotlin, Shell"),
+        (213, "Languages", "C#, TypeScript, Python, PowerShell, Shell"),
         (234, "Frameworks", "WinUI 3, React, Next.js"),
     ]:
         svg.append(line(y, item(label, value)))
