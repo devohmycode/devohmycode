@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px" role="img" aria-labelledby="title description">
 <title id="title">OhMyCode GitHub profile</title>
-<desc id="description">Monochrome ASCII portrait. Systems and Network Administrator. Uptime: 41 years, 0 months, 25 days. IDE: Claude-Code, Cursor, VS Code. Email: ohmycodedev@gmail.com. GitHub statistics: 34 repositories, 122 stars, 9 followers, 4848 contributions, 474 commits, 377354 net lines added.</desc>
+<desc id="description">Monochrome ASCII portrait. Systems and Network Administrator. Uptime: 41 years, 0 months, 25 days. IDE: Claude-Code, Cursor, VS Code. Email: ohmycodedev@gmail.com. LinkedIn: https://www.linkedin.com/in/g-decker. GitHub statistics: 34 repositories, 122 stars, 9 followers, 4848 contributions, 474 commits, 377354 net lines added.</desc>
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="40" fill="#8b949e" xml:space="preserve">                                           </text>
 <text x="25" y="55" fill="#8b949e" xml:space="preserve">                                           </text>
@@ -41,6 +41,7 @@
 <text x="390" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
 <text x="390" y="318" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">ohmycodedev@gmail.com</tspan></text>
 <text x="390" y="339" xml:space="preserve"><tspan fill="#ffa657">GitHub: </tspan><tspan fill="#484f58">......................... </tspan><tspan fill="#c9d1d9">github.com/devohmycode</tspan></text>
+<a href="https://www.linkedin.com/in/g-decker"><text x="390" y="360" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">linkedin.com/in/g-decker</tspan></text></a>
 <text x="390" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
 <text x="390" y="402" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.................... </tspan><tspan fill="#c9d1d9">34</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">122</tspan></text>
 <text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">474</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.......... </tspan><tspan fill="#c9d1d9">9</tspan></text>

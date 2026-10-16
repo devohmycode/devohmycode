@@ -148,6 +148,9 @@ class ProfileTests(unittest.TestCase):
                 self.assertIn("Systems and Network Administrator", visible)
                 self.assertIn("Claude-Code, Cursor, VS Code", visible)
                 self.assertIn("ohmycodedev@gmail.com", visible)
+                linkedin = root.find("{http://www.w3.org/2000/svg}a")
+                self.assertEqual(linkedin.attrib["href"], "https://www.linkedin.com/in/g-decker")
+                self.assertIn("linkedin.com/in/g-decker", "".join(linkedin.itertext()))
                 for removed in ("Focus:", "Tools:", "Projects:", "Repository:", "Updated on", "$ git commit"):
                     self.assertNotIn(removed, visible)
                 self.assertNotIn("<image", ElementTree.tostring(root, encoding="unicode"))

@@ -16,6 +16,7 @@ BIRTHDAY = date(1985, 9, 21)
 JOB_TITLE = "Systems and Network Administrator"
 IDE = "Claude-Code, Cursor, VS Code"
 EMAIL = "ohmycodedev@gmail.com"
+LINKEDIN = "https://www.linkedin.com/in/g-decker"
 THEMES = {
     "dark": {
         "background": "#0d1117", "border": "#30363d", "portrait": "#8b949e",
@@ -199,7 +200,8 @@ def render_card(stats, portrait, theme):
         'role="img" aria-labelledby="title description">',
         f'<title id="title">{escape(stats["name"])} GitHub profile</title>',
         f'<desc id="description">Monochrome ASCII portrait. {escape(JOB_TITLE)}. '
-        f'Uptime: {age}. IDE: {escape(IDE)}. Email: {escape(EMAIL)}. GitHub statistics: '
+        f'Uptime: {age}. IDE: {escape(IDE)}. Email: {escape(EMAIL)}. '
+        f'LinkedIn: {escape(LINKEDIN)}. GitHub statistics: '
         f'{stats["repos"]} repositories, {stats["stars"]} stars, {stats["followers"]} followers, '
         f'{stats["contributions"]} contributions, {stats["commits"]} commits, '
         f'{stats["additions"] - stats["deletions"]} net lines added.</desc>',
@@ -226,6 +228,8 @@ def render_card(stats, portrait, theme):
         heading(297, "─ Contact "),
         line(318, item("Email", EMAIL)),
         line(339, item("GitHub", f"github.com/{USER}")),
+        f'<a href="{escape(LINKEDIN)}">'
+        + line(360, item("LinkedIn", LINKEDIN.removeprefix("https://www."))) + '</a>',
         heading(381, "─ GitHub Stats "),
         line(402, item("Repos", f"{stats['repos']:,}", 30) + span(" | ", "dots") + item("Stars", f"{stats['stars']:,}", 23)),
         line(423, item("Commits", f"{stats['commits']:,}", 30) + span(" | ", "dots") + item("Followers", f"{stats['followers']:,}", 23)),

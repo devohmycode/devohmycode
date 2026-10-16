@@ -28,6 +28,10 @@ Both themes share the same personal fields:
 - **Kernel:** Systems and Network Administrator.
 - **IDE:** Claude-Code, Cursor, VS Code.
 - **Email:** ohmycodedev@gmail.com.
+- **LinkedIn:** [linkedin.com/in/g-decker](https://www.linkedin.com/in/g-decker).
+
+The LinkedIn link works when the SVG is opened directly. When GitHub embeds
+the SVG as an image in the README, links inside the image are not interactive.
 
 Python 3.12 or later is sufficient, with no external Python dependencies. The
 GitHub API provides the public repository count (including forks), followers,
