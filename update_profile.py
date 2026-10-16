@@ -11,6 +11,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
 USER = "devohmycode"
+GITHUB_SINCE = "2022"
 BIRTHDAY = date(1985, 9, 21)
 JOB_TITLE = "Systems and Network Administrator"
 IDE = "Claude-Code, Cursor, VS Code"
@@ -146,7 +147,7 @@ def fetch_stats():
     additions, deletions = fetch_line_changes(repositories, profile["node_id"])
     return {
         "name": profile["name"] or USER,
-        "since": profile["created_at"][:4],
+        "since": GITHUB_SINCE,
         "repos": len(repositories),
         "stars": sum(repo["stargazers_count"] for repo in repositories if not repo["fork"]),
         "followers": profile["followers"],

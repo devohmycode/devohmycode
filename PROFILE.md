@@ -31,11 +31,11 @@ Both themes share the same personal fields:
 
 Python 3.12 or later is sufficient, with no external Python dependencies. The
 GitHub API provides the public repository count (including forks), followers,
-and total stars on public repositories that are not forks. The name and join
-year come from the profile.
+and total stars on public repositories that are not forks. The name comes from
+the profile. The displayed starting year is customized to 2022 with `GITHUB_SINCE`.
 
 - **Contributions:** yearly totals from GitHub's anonymous public contribution
-  calendar, summed from the join year onward. These can include anonymous private
+  calendar, summed from the account creation year onward. These can include anonymous private
   contribution counts if the user has chosen to share them publicly.
 - **Commits:** yearly totals from GraphQL
   `commitContributionsByRepository.contributions.totalCount`, with private and

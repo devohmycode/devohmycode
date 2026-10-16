@@ -41,7 +41,7 @@ class ProfileTests(unittest.TestCase):
         self.assertEqual(stats["repos"], 101)
         self.assertEqual(stats["stars"], 115)
         self.assertEqual(stats["followers"], 9)
-        self.assertEqual(stats["since"], "2025")
+        self.assertEqual(stats["since"], "2022")
         self.assertEqual(stats["contributions"], 19)
         self.assertEqual(stats["commits"], 8)
         self.assertEqual(stats["additions"] - stats["deletions"], 15)
@@ -127,7 +127,7 @@ class ProfileTests(unittest.TestCase):
 
     def test_keeps_portrait_profile_and_all_metrics_in_both_themes(self):
         stats = {
-            "name": "Code & <friends>", "repos": 34, "stars": 115, "followers": 9, "since": "2025",
+            "name": "Code & <friends>", "repos": 34, "stars": 115, "followers": 9, "since": "2022",
             "contributions": 4390, "commits": 4000, "additions": 100005, "deletions": 456,
         }
         for theme in ("dark", "light"):
@@ -160,7 +160,7 @@ class ProfileTests(unittest.TestCase):
         from tempfile import TemporaryDirectory
 
         stats = {
-            "name": "OhMyCode", "repos": 34, "stars": 115, "followers": 9, "since": "2025",
+            "name": "OhMyCode", "repos": 34, "stars": 115, "followers": 9, "since": "2022",
             "contributions": 4390, "commits": 4000, "additions": 100005, "deletions": 456,
         }
         with TemporaryDirectory() as directory:
