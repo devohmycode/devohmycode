@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px" role="img" aria-labelledby="title description">
 <title id="title">OhMyCode GitHub profile</title>
-<desc id="description">Monochrome ASCII portrait. Systems and Network Administrator. Uptime: 41 years, 1 month, 0 days. IDE: Claude-Code, Cursor, VS Code. Email: ohmycodedev@gmail.com. LinkedIn: https://www.linkedin.com/in/g-decker. GitHub statistics: 26 repositories, 145 stars, 11 followers, 5025 contributions, 468 commits, 203398 net lines added.</desc>
+<desc id="description">Monochrome ASCII portrait. Systems and Network Administrator. Uptime: 41 years, 1 month, 1 day. IDE: Claude-Code, Cursor, VS Code. Email: ohmycodedev@gmail.com. LinkedIn: https://www.linkedin.com/in/g-decker. GitHub statistics: 27 repositories, 146 stars, 13 followers, 5362 contributions, 471 commits, 203398 net lines added.</desc>
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <text x="25" y="40" fill="#57606a" xml:space="preserve">                                           </text>
 <text x="25" y="55" fill="#57606a" xml:space="preserve">                                           </text>
@@ -32,7 +32,7 @@
 <text x="25" y="445" fill="#57606a" xml:space="preserve">......................::...................</text>
 <text x="390" y="45" xml:space="preserve"><tspan fill="#0969da">devohmycode@github </tspan><tspan fill="#afb8c1">─────────────────────────────────────</tspan></text>
 <text x="390" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">..................................... </tspan><tspan fill="#24292f">Windows, Linux</tspan></text>
-<text x="390" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">41 years, 1 month, 0 days</tspan></text>
+<text x="390" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">41 years, 1 month, 1 day</tspan></text>
 <text x="390" y="129" xml:space="preserve"><tspan fill="#953800">GitHub: </tspan><tspan fill="#afb8c1">..................................... </tspan><tspan fill="#24292f">Since 2022</tspan></text>
 <text x="390" y="150" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">Systems and Network Administrator</tspan></text>
 <text x="390" y="171" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">Claude-Code, Cursor, VS Code</tspan></text>
@@ -43,8 +43,8 @@
 <text x="390" y="339" xml:space="preserve"><tspan fill="#953800">GitHub: </tspan><tspan fill="#afb8c1">......................... </tspan><tspan fill="#24292f">github.com/devohmycode</tspan></text>
 <a href="https://www.linkedin.com/in/g-decker"><text x="390" y="360" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">linkedin.com/in/g-decker</tspan></text></a>
 <text x="390" y="381" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
-<text x="390" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">26</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">145</tspan></text>
-<text x="390" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">................. </tspan><tspan fill="#24292f">468</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">11</tspan></text>
-<text x="390" y="444" xml:space="preserve"><tspan fill="#953800">Contributions: </tspan><tspan fill="#afb8c1">................................... </tspan><tspan fill="#24292f">5,025</tspan></text>
+<text x="390" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">27</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">146</tspan></text>
+<text x="390" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">................. </tspan><tspan fill="#24292f">471</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">13</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#953800">Contributions: </tspan><tspan fill="#afb8c1">................................... </tspan><tspan fill="#24292f">5,362</tspan></text>
 <text x="390" y="465" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">203,398</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">666,152++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">462,754--</tspan><tspan fill="#afb8c1"> )</tspan></text>
 </svg>
