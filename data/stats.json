@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-23T08:32:26Z",
+  "login": "devohmycode",
+  "name": "OhMyCode",
+  "since": "2022",
+  "account_created": "2025-11-22",
+  "statistics_since": "2025-01-01",
+  "repos": 28,
+  "original_repos": 18,
+  "fork_repos": 10,
+  "archived_repos": 0,
+  "stars": 147,
+  "forks_received": 17,
+  "top_repos": [
+    {
+      "name": "OhMyTermux",
+      "url": "https://github.com/devohmycode/OhMyTermux",
+      "stars": 43
+    },
+    {
+      "name": "Skills-Atlas",
+      "url": "https://github.com/devohmycode/Skills-Atlas",
+      "stars": 33
+    },
+    {
+      "name": "NoteUI",
+      "url": "https://github.com/devohmycode/NoteUI",
+      "stars": 23
+    }
+  ],
+  "languages": {
+    "repositories": 18,
+    "top": [
+      {
+        "name": "TypeScript",
+        "repos": 8
+      },
+      {
+        "name": "C#",
+        "repos": 3
+      },
+      {
+        "name": "Python",
+        "repos": 2
+      }
+    ],
+    "other": 3,
+    "unspecified": 2
+  },
+  "followers": 14,
+  "contributions": 4896,
+  "commits": 472,
+  "years": [
+    {
+      "year": 2025,
+      "contributions": 436,
+      "commits": 6,
+      "complete": true
+    },
+    {
+      "year": 2026,
+      "contributions": 4460,
+      "commits": 466,
+      "complete": false
+    }
+  ],
+  "recent": {
+    "start": "2026-09-23",
+    "end": "2026-10-22",
+    "contributions": 1999
+  },
+  "active_days": {
+    "start": "2025-10-23",
+    "end": "2026-10-22",
+    "days": 262,
+    "window_days": 365
+  },
+  "streaks": {
+    "start": "2025-10-23",
+    "end": "2026-10-22",
+    "current": 85,
+    "longest": 85
+  },
+  "collaboration": {
+    "start": "2026-01-01",
+    "end": "2026-10-23T08:32:26Z",
+    "pull_requests": 85,
+    "issues": 12,
+    "reviews": 0
+  },
+  "additions": 666152,
+  "deletions": 462754,
+  "line_cache": {
+    "oldest_calculation": "2026-10-23T08:31:34Z",
+    "max_age_days": 7
+  },
+  "trend": {
+    "reference_date": "2026-09-23",
+    "current_date": "2026-10-23",
+    "available": false
+  }
+}

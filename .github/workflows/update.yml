@@ -11,18 +11,42 @@ on:
       - test_update_profile.py
       - assets/portrait-original.txt
       - .github/workflows/update.yml
+  pull_request:
+    paths:
+      - update_profile.py
+      - test_update_profile.py
+      - assets/portrait-original.txt
+      - .github/workflows/update.yml
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: profile-update
-  cancel-in-progress: false
+  group: ${{ github.event_name == 'pull_request' && format('profile-test-{0}', github.ref) || 'profile-update' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
-  update:
+  test:
+    # Pull requests, forks included, only run the offline tests: no secret, no write access.
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Test the generator
+        run: python -m unittest -v
+
+  update:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -30,15 +54,27 @@ jobs:
           python-version: '3.12'
       - name: Test the generator
         run: python -m unittest -v
-      - name: Generate the cards
+      - name: Restore the line-change cache
+        uses: actions/cache/restore@v6
+        with:
+          path: .cache/profile
+          key: profile-lines-${{ github.run_id }}
+          restore-keys: profile-lines-
+      - name: Generate the cards, report and data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python update_profile.py
-      - name: Commit the cards
+      - name: Save the line-change cache
+        if: always() && hashFiles('.cache/profile/line-changes.json') != ''
+        uses: actions/cache/save@v6
+        with:
+          path: .cache/profile
+          key: profile-lines-${{ github.run_id }}
+      - name: Commit the outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- dark_mode.svg light_mode.svg
+          git add -A -- dark_mode.svg light_mode.svg STATS.md data
           if ! git diff --cached --quiet; then
             git commit -m "Update profile statistics"
             git push

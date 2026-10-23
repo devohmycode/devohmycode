@@ -3,3 +3,5 @@
   <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
   <img src="./light_mode.svg" width="840" alt="OhMyCode — ASCII portrait and GitHub profile. Windows, Linux, Android and web applications; C#, TypeScript, Python, PowerShell and Shell.">
 </picture>
+
+[Detailed statistics](./STATS.md) · [Email](mailto:ohmycodedev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/g-decker)
