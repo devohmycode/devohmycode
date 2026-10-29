@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T10:37:33Z",
+  "generated_at": "2026-10-29T10:55:15Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
   "account_created": "2025-11-22",
   "statistics_since": "2025-01-01",
-  "repos": 29,
-  "original_repos": 18,
+  "repos": 28,
+  "original_repos": 17,
   "fork_repos": 11,
   "archived_repos": 0,
-  "stars": 149,
+  "stars": 150,
   "forks_received": 18,
   "top_repos": [
     {
       "name": "OhMyTermux",
       "url": "https://github.com/devohmycode/OhMyTermux",
-      "stars": 43
+      "stars": 44
     },
     {
       "name": "Skills-Atlas",
@@ -30,7 +30,7 @@
     }
   ],
   "languages": {
-    "repositories": 18,
+    "repositories": 17,
     "top": [
       {
         "name": "TypeScript",
@@ -42,15 +42,15 @@
       },
       {
         "name": "Python",
-        "repos": 3
+        "repos": 2
       }
     ],
     "other": 3,
     "unspecified": 1
   },
-  "followers": 15,
+  "followers": 16,
   "contributions": 5062,
-  "commits": 510,
+  "commits": 492,
   "years": [
     {
       "year": 2025,
@@ -61,43 +61,43 @@
     {
       "year": 2026,
       "contributions": 4626,
-      "commits": 504,
+      "commits": 486,
       "complete": false
     }
   ],
   "recent": {
-    "start": "2026-09-28",
-    "end": "2026-10-27",
-    "contributions": 1501
+    "start": "2026-09-29",
+    "end": "2026-10-28",
+    "contributions": 1411
   },
   "active_days": {
-    "start": "2025-10-28",
-    "end": "2026-10-27",
+    "start": "2025-10-29",
+    "end": "2026-10-28",
     "days": 267,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-10-28",
-    "end": "2026-10-27",
-    "current": 90,
+    "start": "2025-10-29",
+    "end": "2026-10-28",
+    "current": 0,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-10-28T10:37:33Z",
+    "end": "2026-10-29T10:55:15Z",
     "pull_requests": 87,
     "issues": 12,
     "reviews": 0
   },
-  "additions": 874844,
-  "deletions": 463920,
+  "additions": 668809,
+  "deletions": 463338,
   "line_cache": {
     "oldest_calculation": "2026-10-23T08:38:15Z",
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-09-28",
-    "current_date": "2026-10-28",
+    "reference_date": "2026-09-29",
+    "current_date": "2026-10-29",
     "available": false
   }
 }
