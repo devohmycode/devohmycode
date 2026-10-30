@@ -1,21 +1,21 @@
 # GitHub statistics — OhMyCode
 
-Generated on 2026-10-29T10:55:15Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-10-28, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
+Generated on 2026-10-30T10:53:24Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-10-29, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
 
 ## Overview
 
 | Statistic | Value | Period | Source |
 | --- | ---: | --- | --- |
-| Public repositories | 28 | 2026-10-29 | REST, owned public repositories |
-| Original repositories (not forks) | 17 | 2026-10-29 | REST |
-| Forks owned | 11 | 2026-10-29 | REST |
-| Archived original repositories | 0 | 2026-10-29 | REST, included in originals |
-| Stars on original repositories | 150 | 2026-10-29 | REST |
-| Forks received by original repositories | 18 | 2026-10-29 | REST |
-| Followers | 16 | 2026-10-29 | REST |
-| Contributions | 5,062 | 2025-01-01 to 2026-10-29 | Public contribution calendar |
-| Commits | 492 | 2025-01-01 to 2026-10-29 | GraphQL, public repositories |
-| Net line changes | 205,471 | Full history | GraphQL, default branches of original repositories |
+| Public repositories | 29 | 2026-10-30 | REST, owned public repositories |
+| Original repositories (not forks) | 18 | 2026-10-30 | REST |
+| Forks owned | 11 | 2026-10-30 | REST |
+| Archived original repositories | 0 | 2026-10-30 | REST, included in originals |
+| Stars on original repositories | 150 | 2026-10-30 | REST |
+| Forks received by original repositories | 18 | 2026-10-30 | REST |
+| Followers | 16 | 2026-10-30 | REST |
+| Contributions | 5,086 | 2025-01-01 to 2026-10-30 | Public contribution calendar |
+| Commits | 510 | 2025-01-01 to 2026-10-30 | GraphQL, public repositories |
+| Net line changes | 410,924 | Full history | GraphQL, default branches of original repositories |
 
 ## Popular projects
 
@@ -29,10 +29,10 @@ Original public repositories ranked by stars, then name.
 
 | Language | Repositories | Share |
 | --- | ---: | ---: |
-| TypeScript | 8 | 47% |
-| C\# | 3 | 18% |
-| Python | 2 | 12% |
-| Other | 3 | 18% |
+| TypeScript | 8 | 44% |
+| C\# | 3 | 17% |
+| Python | 3 | 17% |
+| Other | 3 | 17% |
 | Not specified | 1 | 6% |
 
 Share of original public repositories, archives included, by the primary language GitHub detects. It counts repositories, not lines, time spent or expertise.
@@ -42,23 +42,23 @@ Share of original public repositories, archives included, by the primary languag
 | Year | Contributions | Commits | Status |
 | --- | ---: | ---: | --- |
 | 2025 | 436 | 6 | complete |
-| 2026 | 4,626 | 486 | in progress |
-| **Total** | **5,062** | **492** | |
+| 2026 | 4,650 | 504 | in progress |
+| **Total** | **5,086** | **510** | |
 
 Contributions come from the public calendar, which can include anonymous private counts the user chose to share. Commits only count public repositories. The two columns have different scopes; a year in progress is not comparable with a complete year.
 
 ## Recent activity
 
-- **Contributions, last 30 days** (2026-09-29 to 2026-10-28): 1,411
-- **Active days, last 365 days** (2025-10-29 to 2026-10-28): 267 of 365 (73%)
-- **Current streak** (ending 2026-10-28): 0 days
-- **Longest streak within 2025-10-29 to 2026-10-28**: 90 days (this window only, not an all-time record)
+- **Contributions, last 30 days** (2026-09-30 to 2026-10-29): 1,356
+- **Active days, last 365 days** (2025-10-30 to 2026-10-29): 268 of 365 (73%)
+- **Current streak** (ending 2026-10-29): 1 day
+- **Longest streak within 2025-10-30 to 2026-10-29**: 90 days (this window only, not an all-time record)
 
 An active day has at least one contribution in the public calendar.
 
 ## Collaboration in 2026
 
-From 2026-01-01 to 2026-10-29T10:55:15Z, on public repositories, including those of other owners:
+From 2026-01-01 to 2026-10-30T10:53:24Z, on public repositories, including those of other owners:
 
 - **Pull requests opened:** 87 (whatever their current state)
 - **Issues opened:** 12 (whatever their current state)
@@ -66,17 +66,17 @@ From 2026-01-01 to 2026-10-29T10:55:15Z, on public repositories, including those
 
 ## Changes over 30 days
 
-Insufficient history: a snapshot from 2026-09-29 is needed to compare with 2026-10-29. Nothing is interpolated.
+Insufficient history: a snapshot from 2026-09-30 is needed to compare with 2026-10-30. Nothing is interpolated.
 
 ## Line changes
 
-- **Added:** 668,809
-- **Deleted:** 463,338
-- **Net:** 205,471
+- **Added:** 874,844
+- **Deleted:** 463,920
+- **Net:** 410,924
 
 Additions and deletions of the account's authored commits on the default branches of original public repositories, over their whole history. They include text and documentation and do not measure the code currently present.
 
-Per-repository totals are cached while the branch head is unchanged. The oldest calculation used dates from 2026-10-23T08:38:15Z; a reattribution of old commits can take up to 7 days to appear.
+Per-repository totals are cached while the branch head is unchanged. The oldest calculation used dates from 2026-10-25T09:11:22Z; a reattribution of old commits can take up to 7 days to appear.
 
 ## Definitions and limits
 
