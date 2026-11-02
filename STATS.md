@@ -1,26 +1,26 @@
 # GitHub statistics — OhMyCode
 
-Generated on 2026-11-01T11:18:54Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-10-31, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
+Generated on 2026-11-02T12:30:27Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-01, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
 
 ## Overview
 
 | Statistic | Value | Period | Source |
 | --- | ---: | --- | --- |
-| Public repositories | 29 | 2026-11-01 | REST, owned public repositories |
-| Original repositories (not forks) | 18 | 2026-11-01 | REST |
-| Forks owned | 11 | 2026-11-01 | REST |
-| Archived original repositories | 0 | 2026-11-01 | REST, included in originals |
-| Stars on original repositories | 153 | 2026-11-01 | REST |
-| Forks received by original repositories | 18 | 2026-11-01 | REST |
-| Followers | 16 | 2026-11-01 | REST |
-| Contributions | 5,090 | 2025-01-01 to 2026-11-01 | Public contribution calendar |
-| Commits | 510 | 2025-01-01 to 2026-11-01 | GraphQL, public repositories |
+| Public repositories | 30 | 2026-11-02 | REST, owned public repositories |
+| Original repositories (not forks) | 18 | 2026-11-02 | REST |
+| Forks owned | 12 | 2026-11-02 | REST |
+| Archived original repositories | 0 | 2026-11-02 | REST, included in originals |
+| Stars on original repositories | 154 | 2026-11-02 | REST |
+| Forks received by original repositories | 18 | 2026-11-02 | REST |
+| Followers | 16 | 2026-11-02 | REST |
+| Contributions | 5,093 | 2025-01-01 to 2026-11-02 | Public contribution calendar |
+| Commits | 510 | 2025-01-01 to 2026-11-02 | GraphQL, public repositories |
 | Net line changes | 410,924 | Full history | GraphQL, default branches of original repositories |
 
 ## Popular projects
 
 1. [OhMyTermux](https://github.com/devohmycode/OhMyTermux) — 44 stars
-2. [Skills-Atlas](https://github.com/devohmycode/Skills-Atlas) — 38 stars
+2. [Skills-Atlas](https://github.com/devohmycode/Skills-Atlas) — 39 stars
 3. [NoteUI](https://github.com/devohmycode/NoteUI) — 23 stars
 
 Original public repositories ranked by stars, then name.
@@ -42,23 +42,23 @@ Share of original public repositories, archives included, by the primary languag
 | Year | Contributions | Commits | Status |
 | --- | ---: | ---: | --- |
 | 2025 | 436 | 6 | complete |
-| 2026 | 4,654 | 504 | in progress |
-| **Total** | **5,090** | **510** | |
+| 2026 | 4,657 | 504 | in progress |
+| **Total** | **5,093** | **510** | |
 
 Contributions come from the public calendar, which can include anonymous private counts the user chose to share. Commits only count public repositories. The two columns have different scopes; a year in progress is not comparable with a complete year.
 
 ## Recent activity
 
-- **Contributions, last 30 days** (2026-10-02 to 2026-10-31): 1,268
-- **Active days, last 365 days** (2025-11-01 to 2026-10-31): 270 of 365 (74%)
-- **Current streak** (ending 2026-10-31): 3 days
-- **Longest streak within 2025-11-01 to 2026-10-31**: 90 days (this window only, not an all-time record)
+- **Contributions, last 30 days** (2026-10-03 to 2026-11-01): 1,247
+- **Active days, last 365 days** (2025-11-02 to 2026-11-01): 270 of 365 (74%)
+- **Current streak** (ending 2026-11-01): 0 days
+- **Longest streak within 2025-11-02 to 2026-11-01**: 90 days (this window only, not an all-time record)
 
 An active day has at least one contribution in the public calendar.
 
 ## Collaboration in 2026
 
-From 2026-01-01 to 2026-11-01T11:18:54Z, on public repositories, including those of other owners:
+From 2026-01-01 to 2026-11-02T12:30:27Z, on public repositories, including those of other owners:
 
 - **Pull requests opened:** 88 (whatever their current state)
 - **Issues opened:** 12 (whatever their current state)
@@ -66,7 +66,7 @@ From 2026-01-01 to 2026-11-01T11:18:54Z, on public repositories, including those
 
 ## Changes over 30 days
 
-Insufficient history: a snapshot from 2026-10-02 is needed to compare with 2026-11-01. Nothing is interpolated.
+Insufficient history: a snapshot from 2026-10-03 is needed to compare with 2026-11-02. Nothing is interpolated.
 
 ## Line changes
 
