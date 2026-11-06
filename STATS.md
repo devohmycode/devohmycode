@@ -1,20 +1,20 @@
 # GitHub statistics — OhMyCode
 
-Generated on 2026-11-05T12:26:19Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-04, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
+Generated on 2026-11-06T12:10:26Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-05, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
 
 ## Overview
 
 | Statistic | Value | Period | Source |
 | --- | ---: | --- | --- |
-| Public repositories | 30 | 2026-11-05 | REST, owned public repositories |
-| Original repositories (not forks) | 18 | 2026-11-05 | REST |
-| Forks owned | 12 | 2026-11-05 | REST |
-| Archived original repositories | 0 | 2026-11-05 | REST, included in originals |
-| Stars on original repositories | 155 | 2026-11-05 | REST |
-| Forks received by original repositories | 18 | 2026-11-05 | REST |
-| Followers | 16 | 2026-11-05 | REST |
-| Contributions | 5,098 | 2025-01-01 to 2026-11-05 | Public contribution calendar |
-| Commits | 510 | 2025-01-01 to 2026-11-05 | GraphQL, public repositories |
+| Public repositories | 30 | 2026-11-06 | REST, owned public repositories |
+| Original repositories (not forks) | 18 | 2026-11-06 | REST |
+| Forks owned | 12 | 2026-11-06 | REST |
+| Archived original repositories | 0 | 2026-11-06 | REST, included in originals |
+| Stars on original repositories | 155 | 2026-11-06 | REST |
+| Forks received by original repositories | 18 | 2026-11-06 | REST |
+| Followers | 16 | 2026-11-06 | REST |
+| Contributions | 5,147 | 2025-01-01 to 2026-11-06 | Public contribution calendar |
+| Commits | 510 | 2025-01-01 to 2026-11-06 | GraphQL, public repositories |
 | Net line changes | 410,924 | Full history | GraphQL, default branches of original repositories |
 
 ## Popular projects
@@ -42,23 +42,23 @@ Share of original public repositories, archives included, by the primary languag
 | Year | Contributions | Commits | Status |
 | --- | ---: | ---: | --- |
 | 2025 | 436 | 6 | complete |
-| 2026 | 4,662 | 504 | in progress |
-| **Total** | **5,098** | **510** | |
+| 2026 | 4,711 | 504 | in progress |
+| **Total** | **5,147** | **510** | |
 
 Contributions come from the public calendar, which can include anonymous private counts the user chose to share. Commits only count public repositories. The two columns have different scopes; a year in progress is not comparable with a complete year.
 
 ## Recent activity
 
-- **Contributions, last 30 days** (2026-10-06 to 2026-11-04): 1,175
-- **Active days, last 365 days** (2025-11-05 to 2026-11-04): 273 of 365 (75%)
-- **Current streak** (ending 2026-11-04): 3 days
-- **Longest streak within 2025-11-05 to 2026-11-04**: 90 days (this window only, not an all-time record)
+- **Contributions, last 30 days** (2026-10-07 to 2026-11-05): 1,168
+- **Active days, last 365 days** (2025-11-06 to 2026-11-05): 274 of 365 (75%)
+- **Current streak** (ending 2026-11-05): 4 days
+- **Longest streak within 2025-11-06 to 2026-11-05**: 90 days (this window only, not an all-time record)
 
 An active day has at least one contribution in the public calendar.
 
 ## Collaboration in 2026
 
-From 2026-01-01 to 2026-11-05T12:26:19Z, on public repositories, including those of other owners:
+From 2026-01-01 to 2026-11-06T12:10:26Z, on public repositories, including those of other owners:
 
 - **Pull requests opened:** 89 (whatever their current state)
 - **Issues opened:** 12 (whatever their current state)
@@ -66,7 +66,7 @@ From 2026-01-01 to 2026-11-05T12:26:19Z, on public repositories, including those
 
 ## Changes over 30 days
 
-Insufficient history: a snapshot from 2026-10-06 is needed to compare with 2026-11-05. Nothing is interpolated.
+Insufficient history: a snapshot from 2026-10-07 is needed to compare with 2026-11-06. Nothing is interpolated.
 
 ## Line changes
 
@@ -76,7 +76,7 @@ Insufficient history: a snapshot from 2026-10-06 is needed to compare with 2026-
 
 Additions and deletions of the account's authored commits on the default branches of original public repositories, over their whole history. They include text and documentation and do not measure the code currently present.
 
-Per-repository totals are cached while the branch head is unchanged. The oldest calculation used dates from 2026-10-30T10:53:24Z; a reattribution of old commits can take up to 7 days to appear.
+Per-repository totals are cached while the branch head is unchanged. The oldest calculation used dates from 2026-11-01T11:18:54Z; a reattribution of old commits can take up to 7 days to appear.
 
 ## Definitions and limits
 
