@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T11:19:21Z",
+  "generated_at": "2026-11-09T12:56:17Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
@@ -10,7 +10,7 @@
   "original_repos": 18,
   "fork_repos": 12,
   "archived_repos": 0,
-  "stars": 155,
+  "stars": 157,
   "forks_received": 18,
   "top_repos": [
     {
@@ -21,7 +21,7 @@
     {
       "name": "Skills-Atlas",
       "url": "https://github.com/devohmycode/Skills-Atlas",
-      "stars": 39
+      "stars": 41
     },
     {
       "name": "NoteUI",
@@ -48,7 +48,7 @@
     "other": 3,
     "unspecified": 1
   },
-  "followers": 16,
+  "followers": 17,
   "contributions": 5148,
   "commits": 510,
   "years": [
@@ -66,25 +66,25 @@
     }
   ],
   "recent": {
-    "start": "2026-10-09",
-    "end": "2026-11-07",
-    "contributions": 1120
+    "start": "2026-10-10",
+    "end": "2026-11-08",
+    "contributions": 1055
   },
   "active_days": {
-    "start": "2025-11-08",
-    "end": "2026-11-07",
+    "start": "2025-11-09",
+    "end": "2026-11-08",
     "days": 275,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-11-08",
-    "end": "2026-11-07",
+    "start": "2025-11-09",
+    "end": "2026-11-08",
     "current": 0,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-11-08T11:19:21Z",
+    "end": "2026-11-09T12:56:17Z",
     "pull_requests": 89,
     "issues": 13,
     "reviews": 0
@@ -96,8 +96,8 @@
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-10-09",
-    "current_date": "2026-11-08",
+    "reference_date": "2026-10-10",
+    "current_date": "2026-11-09",
     "available": false
   }
 }
