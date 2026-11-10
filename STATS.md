@@ -1,20 +1,20 @@
 # GitHub statistics — OhMyCode
 
-Generated on 2026-11-09T12:56:17Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-08, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
+Generated on 2026-11-10T12:42:30Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-09, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
 
 ## Overview
 
 | Statistic | Value | Period | Source |
 | --- | ---: | --- | --- |
-| Public repositories | 30 | 2026-11-09 | REST, owned public repositories |
-| Original repositories (not forks) | 18 | 2026-11-09 | REST |
-| Forks owned | 12 | 2026-11-09 | REST |
-| Archived original repositories | 0 | 2026-11-09 | REST, included in originals |
-| Stars on original repositories | 157 | 2026-11-09 | REST |
-| Forks received by original repositories | 18 | 2026-11-09 | REST |
-| Followers | 17 | 2026-11-09 | REST |
-| Contributions | 5,148 | 2025-01-01 to 2026-11-09 | Public contribution calendar |
-| Commits | 510 | 2025-01-01 to 2026-11-09 | GraphQL, public repositories |
+| Public repositories | 30 | 2026-11-10 | REST, owned public repositories |
+| Original repositories (not forks) | 18 | 2026-11-10 | REST |
+| Forks owned | 12 | 2026-11-10 | REST |
+| Archived original repositories | 0 | 2026-11-10 | REST, included in originals |
+| Stars on original repositories | 157 | 2026-11-10 | REST |
+| Forks received by original repositories | 18 | 2026-11-10 | REST |
+| Followers | 17 | 2026-11-10 | REST |
+| Contributions | 5,148 | 2025-01-01 to 2026-11-10 | Public contribution calendar |
+| Commits | 510 | 2025-01-01 to 2026-11-10 | GraphQL, public repositories |
 | Net line changes | 410,924 | Full history | GraphQL, default branches of original repositories |
 
 ## Popular projects
@@ -49,16 +49,16 @@ Contributions come from the public calendar, which can include anonymous private
 
 ## Recent activity
 
-- **Contributions, last 30 days** (2026-10-10 to 2026-11-08): 1,055
-- **Active days, last 365 days** (2025-11-09 to 2026-11-08): 275 of 365 (75%)
-- **Current streak** (ending 2026-11-08): 0 days
-- **Longest streak within 2025-11-09 to 2026-11-08**: 90 days (this window only, not an all-time record)
+- **Contributions, last 30 days** (2026-10-11 to 2026-11-09): 991
+- **Active days, last 365 days** (2025-11-10 to 2026-11-09): 275 of 365 (75%)
+- **Current streak** (ending 2026-11-09): 0 days
+- **Longest streak within 2025-11-10 to 2026-11-09**: 90 days (this window only, not an all-time record)
 
 An active day has at least one contribution in the public calendar.
 
 ## Collaboration in 2026
 
-From 2026-01-01 to 2026-11-09T12:56:17Z, on public repositories, including those of other owners:
+From 2026-01-01 to 2026-11-10T12:42:30Z, on public repositories, including those of other owners:
 
 - **Pull requests opened:** 89 (whatever their current state)
 - **Issues opened:** 13 (whatever their current state)
@@ -66,7 +66,7 @@ From 2026-01-01 to 2026-11-09T12:56:17Z, on public repositories, including those
 
 ## Changes over 30 days
 
-Insufficient history: a snapshot from 2026-10-10 is needed to compare with 2026-11-09. Nothing is interpolated.
+Insufficient history: a snapshot from 2026-10-11 is needed to compare with 2026-11-10. Nothing is interpolated.
 
 ## Line changes
 
