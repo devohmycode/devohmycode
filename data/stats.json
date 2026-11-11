@@ -1,27 +1,27 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T12:42:30Z",
+  "generated_at": "2026-11-11T11:55:16Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
   "account_created": "2025-11-22",
   "statistics_since": "2025-01-01",
-  "repos": 30,
-  "original_repos": 18,
+  "repos": 31,
+  "original_repos": 19,
   "fork_repos": 12,
   "archived_repos": 0,
-  "stars": 157,
+  "stars": 161,
   "forks_received": 18,
   "top_repos": [
+    {
+      "name": "Skills-Atlas",
+      "url": "https://github.com/devohmycode/Skills-Atlas",
+      "stars": 45
+    },
     {
       "name": "OhMyTermux",
       "url": "https://github.com/devohmycode/OhMyTermux",
       "stars": 44
-    },
-    {
-      "name": "Skills-Atlas",
-      "url": "https://github.com/devohmycode/Skills-Atlas",
-      "stars": 41
     },
     {
       "name": "NoteUI",
@@ -30,7 +30,7 @@
     }
   ],
   "languages": {
-    "repositories": 18,
+    "repositories": 19,
     "top": [
       {
         "name": "TypeScript",
@@ -45,12 +45,12 @@
         "repos": 3
       }
     ],
-    "other": 3,
+    "other": 4,
     "unspecified": 1
   },
   "followers": 17,
-  "contributions": 5148,
-  "commits": 510,
+  "contributions": 5158,
+  "commits": 521,
   "years": [
     {
       "year": 2025,
@@ -60,44 +60,44 @@
     },
     {
       "year": 2026,
-      "contributions": 4712,
-      "commits": 504,
+      "contributions": 4722,
+      "commits": 515,
       "complete": false
     }
   ],
   "recent": {
-    "start": "2026-10-11",
-    "end": "2026-11-09",
-    "contributions": 991
+    "start": "2026-10-12",
+    "end": "2026-11-10",
+    "contributions": 958
   },
   "active_days": {
-    "start": "2025-11-10",
-    "end": "2026-11-09",
-    "days": 275,
+    "start": "2025-11-11",
+    "end": "2026-11-10",
+    "days": 276,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-11-10",
-    "end": "2026-11-09",
-    "current": 0,
+    "start": "2025-11-11",
+    "end": "2026-11-10",
+    "current": 1,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-11-10T12:42:30Z",
-    "pull_requests": 89,
+    "end": "2026-11-11T11:55:16Z",
+    "pull_requests": 93,
     "issues": 13,
     "reviews": 0
   },
-  "additions": 874844,
-  "deletions": 463920,
+  "additions": 898709,
+  "deletions": 464999,
   "line_cache": {
-    "oldest_calculation": "2026-11-05T12:26:19Z",
+    "oldest_calculation": "2026-11-06T12:10:26Z",
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-10-11",
-    "current_date": "2026-11-10",
+    "reference_date": "2026-10-12",
+    "current_date": "2026-11-11",
     "available": false
   }
 }
