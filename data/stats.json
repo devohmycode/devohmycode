@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T13:17:55Z",
+  "generated_at": "2026-11-20T12:58:49Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
@@ -10,13 +10,13 @@
   "original_repos": 19,
   "fork_repos": 12,
   "archived_repos": 0,
-  "stars": 169,
+  "stars": 174,
   "forks_received": 18,
   "top_repos": [
     {
       "name": "Skills-Atlas",
       "url": "https://github.com/devohmycode/Skills-Atlas",
-      "stars": 50
+      "stars": 55
     },
     {
       "name": "OhMyTermux",
@@ -66,25 +66,25 @@
     }
   ],
   "recent": {
-    "start": "2026-10-20",
-    "end": "2026-11-18",
-    "contributions": 466
+    "start": "2026-10-21",
+    "end": "2026-11-19",
+    "contributions": 418
   },
   "active_days": {
-    "start": "2025-11-19",
-    "end": "2026-11-18",
-    "days": 286,
+    "start": "2025-11-20",
+    "end": "2026-11-19",
+    "days": 287,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-11-19",
-    "end": "2026-11-18",
-    "current": 10,
+    "start": "2025-11-20",
+    "end": "2026-11-19",
+    "current": 11,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-11-19T13:17:55Z",
+    "end": "2026-11-20T12:58:49Z",
     "pull_requests": 93,
     "issues": 13,
     "reviews": 0
@@ -92,12 +92,12 @@
   "additions": 898709,
   "deletions": 464999,
   "line_cache": {
-    "oldest_calculation": "2026-11-13T12:16:56Z",
+    "oldest_calculation": "2026-11-15T11:58:56Z",
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-10-20",
-    "current_date": "2026-11-19",
+    "reference_date": "2026-10-21",
+    "current_date": "2026-11-20",
     "available": false
   }
 }
