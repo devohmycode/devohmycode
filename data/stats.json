@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T12:58:49Z",
+  "generated_at": "2026-11-21T12:43:01Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
   "account_created": "2025-11-22",
   "statistics_since": "2025-01-01",
-  "repos": 31,
+  "repos": 32,
   "original_repos": 19,
-  "fork_repos": 12,
+  "fork_repos": 13,
   "archived_repos": 0,
-  "stars": 174,
+  "stars": 173,
   "forks_received": 18,
   "top_repos": [
     {
@@ -26,7 +26,7 @@
     {
       "name": "NoteUI",
       "url": "https://github.com/devohmycode/NoteUI",
-      "stars": 24
+      "stars": 23
     }
   ],
   "languages": {
@@ -66,26 +66,26 @@
     }
   ],
   "recent": {
-    "start": "2026-10-21",
-    "end": "2026-11-19",
-    "contributions": 418
+    "start": "2026-10-22",
+    "end": "2026-11-20",
+    "contributions": 377
   },
   "active_days": {
-    "start": "2025-11-20",
-    "end": "2026-11-19",
-    "days": 287,
+    "start": "2025-11-21",
+    "end": "2026-11-20",
+    "days": 288,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-11-20",
-    "end": "2026-11-19",
-    "current": 11,
+    "start": "2025-11-21",
+    "end": "2026-11-20",
+    "current": 12,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-11-20T12:58:49Z",
-    "pull_requests": 93,
+    "end": "2026-11-21T12:43:01Z",
+    "pull_requests": 92,
     "issues": 13,
     "reviews": 0
   },
@@ -96,8 +96,8 @@
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-10-21",
-    "current_date": "2026-11-20",
+    "reference_date": "2026-10-22",
+    "current_date": "2026-11-21",
     "available": false
   }
 }
