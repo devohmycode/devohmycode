@@ -1,25 +1,25 @@
 # GitHub statistics — OhMyCode
 
-Generated on 2026-11-23T14:44:35Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-22, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
+Generated on 2026-11-24T14:55:19Z (UTC) from public data of [github.com/devohmycode](https://github.com/devohmycode). Daily windows end on 2026-11-23, the day before collection; the collection day is never counted. These figures describe activity, not quality, productivity or expertise. Raw values: [data/stats.json](data/stats.json).
 
 ## Overview
 
 | Statistic | Value | Period | Source |
 | --- | ---: | --- | --- |
-| Public repositories | 32 | 2026-11-23 | REST, owned public repositories |
-| Original repositories (not forks) | 19 | 2026-11-23 | REST |
-| Forks owned | 13 | 2026-11-23 | REST |
-| Archived original repositories | 0 | 2026-11-23 | REST, included in originals |
-| Stars on original repositories | 173 | 2026-11-23 | REST |
-| Forks received by original repositories | 18 | 2026-11-23 | REST |
-| Followers | 18 | 2026-11-23 | REST |
-| Contributions | 5,286 | 2025-01-01 to 2026-11-23 | Public contribution calendar |
-| Commits | 521 | 2025-01-01 to 2026-11-23 | GraphQL, public repositories |
+| Public repositories | 32 | 2026-11-24 | REST, owned public repositories |
+| Original repositories (not forks) | 19 | 2026-11-24 | REST |
+| Forks owned | 13 | 2026-11-24 | REST |
+| Archived original repositories | 0 | 2026-11-24 | REST, included in originals |
+| Stars on original repositories | 174 | 2026-11-24 | REST |
+| Forks received by original repositories | 18 | 2026-11-24 | REST |
+| Followers | 18 | 2026-11-24 | REST |
+| Contributions | 5,286 | 2025-01-01 to 2026-11-24 | Public contribution calendar |
+| Commits | 521 | 2025-01-01 to 2026-11-24 | GraphQL, public repositories |
 | Net line changes | 433,710 | Full history | GraphQL, default branches of original repositories |
 
 ## Popular projects
 
-1. [Skills-Atlas](https://github.com/devohmycode/Skills-Atlas) — 55 stars
+1. [Skills-Atlas](https://github.com/devohmycode/Skills-Atlas) — 56 stars
 2. [OhMyTermux](https://github.com/devohmycode/OhMyTermux) — 46 stars
 3. [NoteUI](https://github.com/devohmycode/NoteUI) — 23 stars
 
@@ -49,16 +49,16 @@ Contributions come from the public calendar, which can include anonymous private
 
 ## Recent activity
 
-- **Contributions, last 30 days** (2026-10-24 to 2026-11-22): 293
-- **Active days, last 365 days** (2025-11-23 to 2026-11-22): 287 of 365 (79%)
-- **Current streak** (ending 2026-11-22): 0 days
-- **Longest streak within 2025-11-23 to 2026-11-22**: 90 days (this window only, not an all-time record)
+- **Contributions, last 30 days** (2026-10-25 to 2026-11-23): 279
+- **Active days, last 365 days** (2025-11-24 to 2026-11-23): 287 of 365 (79%)
+- **Current streak** (ending 2026-11-23): 0 days
+- **Longest streak within 2025-11-24 to 2026-11-23**: 90 days (this window only, not an all-time record)
 
 An active day has at least one contribution in the public calendar.
 
 ## Collaboration in 2026
 
-From 2026-01-01 to 2026-11-23T14:44:35Z, on public repositories, including those of other owners:
+From 2026-01-01 to 2026-11-24T14:55:19Z, on public repositories, including those of other owners:
 
 - **Pull requests opened:** 92 (whatever their current state)
 - **Issues opened:** 13 (whatever their current state)
@@ -66,12 +66,12 @@ From 2026-01-01 to 2026-11-23T14:44:35Z, on public repositories, including those
 
 ## Changes over 30 days
 
-Change in each total between 2026-10-24 and 2026-11-23. These are changes in stock, not counts of new stars, followers or repositories.
+Change in each total between 2026-10-25 and 2026-11-24. These are changes in stock, not counts of new stars, followers or repositories.
 
 | Total | Change |
 | --- | ---: |
-| Stars | +24 |
-| Followers | +4 |
+| Stars | +25 |
+| Followers | +3 |
 | Public repositories | +4 |
 
 ## Line changes
