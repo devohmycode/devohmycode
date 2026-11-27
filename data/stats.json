@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:57:12Z",
+  "generated_at": "2026-11-27T13:56:13Z",
   "login": "devohmycode",
   "name": "OhMyCode",
   "since": "2022",
@@ -66,25 +66,25 @@
     }
   ],
   "recent": {
-    "start": "2026-10-27",
-    "end": "2026-11-25",
-    "contributions": 253
+    "start": "2026-10-28",
+    "end": "2026-11-26",
+    "contributions": 239
   },
   "active_days": {
-    "start": "2025-11-26",
-    "end": "2026-11-25",
+    "start": "2025-11-27",
+    "end": "2026-11-26",
     "days": 290,
     "window_days": 365
   },
   "streaks": {
-    "start": "2025-11-26",
-    "end": "2026-11-25",
-    "current": 3,
+    "start": "2025-11-27",
+    "end": "2026-11-26",
+    "current": 0,
     "longest": 90
   },
   "collaboration": {
     "start": "2026-01-01",
-    "end": "2026-11-26T13:57:12Z",
+    "end": "2026-11-27T13:56:13Z",
     "pull_requests": 92,
     "issues": 13,
     "reviews": 0
@@ -92,12 +92,12 @@
   "additions": 898709,
   "deletions": 464999,
   "line_cache": {
-    "oldest_calculation": "2026-11-20T12:58:49Z",
+    "oldest_calculation": "2026-11-22T12:38:32Z",
     "max_age_days": 7
   },
   "trend": {
-    "reference_date": "2026-10-27",
-    "current_date": "2026-11-26",
+    "reference_date": "2026-10-28",
+    "current_date": "2026-11-27",
     "available": true,
     "changes": {
       "stars": 25,
